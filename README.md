@@ -15,8 +15,4 @@ mvn archetype:generate -DgroupId=com.example.app -DartifactId=my-app -Darchetype
 
 Source File Structure:
 
-src/main/java
-└── com
-    └── example
-        └── app
-            └── App.java
+![image](https://github.com/user-attachments/assets/95dfb096-2804-4e1f-9bd2-212c1995a954)
