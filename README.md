@@ -9,5 +9,5 @@
 | `mvn dependency:tree`    | View project dependencies tree |
 
 
-To create maven project
+To create maven project --> 
 mvn archetype:generate -DgroupId=com.example.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
