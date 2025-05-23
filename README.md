@@ -11,3 +11,12 @@
 
 To create maven project --> 
 mvn archetype:generate -DgroupId=com.example.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+
+Source File Structure:
+
+src/main/java
+└── com
+    └── example
+        └── app
+            └── App.java
